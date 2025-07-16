@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Shuvro Chakraborty</title>
+</head>
+<body>
+<h1>Shuvro</h1>
+<p>Hello! My name is Shuvro </p>
+<h3> Hobbies</h3>
+<li>books</li>
+<li>Badminton </li>
+<li>Coding</li>
+<li>Watching movies</li>
+<p style="color:red;">This is read.</p>
+<p style="color:Black;">Black is my fav.</p>
+<p style="color:green;"> WebTech is fun!</p>
+    </body>
+    </html>
