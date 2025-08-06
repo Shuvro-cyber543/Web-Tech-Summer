@@ -1,0 +1,21 @@
+body {font-family: 'Times New Roman', Times, serif;
+margin: 2px;
+padding: 20px; }
+h1{ color:beige
+text-align: center; }
+p { color:bisque
+line-weight: 1.5;}
+
+input[type="text"],
+input[type="email"],
+input[type="select"],
+textarea {
+    width: 20%;
+    padding: 20px;
+    margin: 10px 0;
+    border: 1px solid #3b2121
+}
+input [type"submit"]
+
+
+
